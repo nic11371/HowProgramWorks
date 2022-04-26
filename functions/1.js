@@ -1,6 +1,6 @@
 'use strict'
 //declaration
-function inc(a) {
+function inc(a) { 
 	return a + 1;
 }
 //expression
@@ -19,4 +19,4 @@ const avg = (a, b) => {
 console.log('inc(5) = ' + inc(5));
 console.log('sum(1, 3) = ' + sum(1, 3));
 console.log('max(8, 6) = ' + max(8, 6));
-console.log('avg(8, 6) = ' + avg(8, 6))
+console.log('avg(8, 8) = ' + avg(8, 6))
