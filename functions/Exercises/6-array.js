@@ -8,4 +8,4 @@ const array = () => {
 	return a;
 };
 
-module.exports = { array }
+console.log(array());

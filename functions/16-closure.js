@@ -1,9 +1,9 @@
 'use strict';
 
  const add = x => y => {
-	 const z = x + y;
-	 console.log(x + '+' + y + '=' + z);
-	 return z;
+	const z = x + y;
+	console.log(x + '+' + y + '=' + z);
+	return z;
  }
 
 //  const add = x => y => x + y;
