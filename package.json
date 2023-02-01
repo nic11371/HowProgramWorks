@@ -1,6 +1,8 @@
 {
   "devDependencies": {
-    "eslint": "^8.14.0",
     "eslint-plugin-react": "^7.29.4"
+  },
+  "dependencies": {
+    "bson": "^4.7.0"
   }
 }
